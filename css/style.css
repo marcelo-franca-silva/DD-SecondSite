@@ -1,0 +1,175 @@
+*{
+     margin: 0;
+     padding: 0;
+     font-family: sans-serif;
+}
+.header{
+     min-height: 80vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-image: url('../img/pexels-icsa-833425-1708988\ \(2\).jpg');
+     background-size: cover;
+}
+.headerdiv{
+     background: #2e638b9e;
+     height: 80vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     width: 100%;
+     
+}    
+.headerdiv h1{
+     font-family: sans-serif;
+     font-size: 80px;
+     font-weight: 200;
+     color: rgb(255, 255, 255);
+}
+div h2{
+     font-family: sans-serif;
+     font-size: 50px;
+     font-weight: 200;
+     color:#000000;
+     text-align: center;
+}
+.flex{
+          display:flex ;
+          padding: 20px;
+}
+div h3{
+     font-family: sans-serif;
+     font-size: 40px;
+     font-weight: 100;
+     text-align: center;
+     padding-top: 40px;
+     border-top: 4px solid  #092fb8;
+}
+.col-lg-3 {
+     padding: 10px;
+}
+button{
+background-color: #4B70F5;
+color: aliceblue;
+border-radius: 4px;
+border: none;
+font-size: 16px;
+}
+nav{
+    background-color: #ffffff;
+    font-size: 25px;
+    text-align: center;
+}
+a{
+     text-decoration: none;
+     color: #000000;
+}
+h2{
+     font-family: sans-serif;
+     font-size: 50px;
+     font-weight: 200;
+     color:#ffffff;
+     text-align: center;
+     padding-top: 80px
+}
+.card:hover{
+     transform: scale(1.05);
+     transition: 0.3s;
+}
+h3{
+     text-align: center;
+     
+}
+.imagem img{
+     height: 50px;
+}
+.col-12 {
+     text-align: center;
+     font-family: sans-serif;
+     padding: 10px;
+}
+footer{
+      background: rgb(12, 6, 107);
+     background: linear-gradient(0deg, rgba(17,11,107,0.9220063025210083) 0%, rgba(38, 38, 168, 0.928) 50%, rgb(50, 80, 189) 88%, rgba(255,255,255,1) 100%);
+     color: #fff;
+     border-radius: 20px;
+}
+nav ul {  
+     display: flex;
+     justify-content: left;
+     list-style: none;
+     
+     }
+nav ul li {
+     padding-left: 15px;
+     padding-right: 15px;
+         }
+nav ul img{
+     height: 60px;
+     width: 200px;
+}
+nav ul li a{
+     text-decoration: none;
+     color: #000000;
+     font-family:'Courier New', Courier, monospace;
+     font-size: 40px;
+}
+nav ul li a:hover{
+     color: rgb(47, 0, 255);
+     transition: 0.3s;
+}
+.main{
+     background-image: url(../img/rededobem.png);
+}
+div h4{
+     font-family: sans-serif;
+     font-size: 20px;
+     font-weight: 100;
+     text-align: left;
+     padding-top: 40px; 
+     color: #ffffff;
+}
+ul form{
+   font-size: 18px;
+   color: #ffffff;
+}
+div h5{
+     text-align: center;
+     color: #ffffff;
+}
+div p{
+     background: #ffffff;
+     text-align: center;
+     color: #000000;
+     padding-bottom: 0px;
+}
+div  ul li button{
+     background-color: #092fb8;
+     color: aliceblue;
+    font-size: 20px;
+     border: none;
+     list-style: none ;
+     margin-top: 10px;
+     margin-bottom: 50px;
+     margin-left: 35px;
+}
+ h4{
+     font-family: sans-serif;
+     font-size: 50px;
+     font-weight: 200;
+    color: #000000;
+     text-align: center;
+     padding-top: 30px
+     
+ }
+ p{
+     font-family: sans-serif;
+     font-size: 20px;
+     font-weight: 200;
+     color:#000000;
+     text-align: center;
+     padding-top: 10px
+ }
+hr{
+     width: 20px;
+}

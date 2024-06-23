@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+nav{
+    background-color: #ffffff;
+    font-size: 25px;
+    text-align: center;
+    border-bottom: 4px solid rgb(47, 0, 255);
+}
+nav ul {  
+    display: flex;
+    justify-content: left;
+    list-style: none;
+    
+    }
+nav ul li {
+    padding-left: 15px;
+    padding-right: 15px;
+        }
+nav ul img{
+    height: 60px;
+    width: 200px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #000000;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+nav ul li a:hover{
+    color: rgb(47, 0, 255);
+    transition: 0.3s;
+}
+header h2{
+    margin-top: 15px;
+    font-size: 35px;
+    font-family: sans-serif;
+    color:  #4B70F5;
+    text-align: center;
+}
+header p{
+    text-align: center;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+header div p{
+    font-size: 18px;
+    font-family: sans-serif;
+}
+header h3{
+    font-size: 35px;
+    font-family: sans-serif;
+    color:  #4B70F5;
+    text-align: center;
+}
+header h4{
+    font-size: 35px;
+    font-family: sans-serif;
+    color:  #4B70F5;
+    text-align: center;
+}
+header div h5{
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    color:  orange;
+}
+main{
+    background: #3555cac9;
+}
+.flex{
+    display:flex ;
+    padding: 20px;
+}
+main ul h2{
+    color: #ffffff;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+main ul form{
+    margin-right: 870px;
+}
+main ul label{
+    color: #ffffff;
+}
+button{
+    background-color: #1c3caf;
+    color: aliceblue;
+    border-radius: 4px;
+    border: none;
+    font-size: 16px;
+}
+div ul li{
+list-style: none;
+margin-left: 20px;
+margin-top: 10px;
+}
+footer{
+    background: #5d657494;
+}
+footer h2{
+    padding-top: 15px;
+    text-align: center;
+    color: #000000;
+    font-size: 17px;
+}
+footer p{
+    margin: 0px;
+    text-align: center;
+    color: #000000;
+    line-height: 2.5;
+}
+
+
+
+
